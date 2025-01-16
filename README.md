@@ -54,49 +54,7 @@ EvilJam is a powerful tool designed for educational purposes to demonstrate WiFi
 6. **Credits**: Display credits and tool information.
 7. **Exit**: Exit the tool.
 
-## Function Explanations
 
-### `get_interfaces()`
-Retrieves the list of available network interfaces on the system.
-
-### `scan_network(interface, timeout=10)`
-Scans for available WiFi networks on the specified interface. Returns a list of detected networks.
-
-### `scan_clients(interface, bssid, channel, timeout=60)`
-Scans for clients connected to the target WiFi network. Returns a list of detected clients.
-
-### `switch_channel(interface, channel)`
-Switches the specified interface to the given channel.
-
-### `start_deauth_attack(interface, bssid, client_mac=None, channel=None, packets=100000)`
-Starts a deauthentication attack on the specified BSSID. If `client_mac` is provided, the attack targets a specific client.
-
-### `wiffijam()`
-Main function for the WiFi Jam feature. Scans for networks, allows the user to select a network, and performs deauthentication attacks.
-
-### `scan_networ(interface, timeout=30)`
-Scans for available WiFi networks on the specified interface. Returns a list of detected networks.
-
-### `capture_handshake(interface, bssid, channel, essid)`
-Captures WPA/WPA2 handshakes from the target WiFi network.
-
-### `eviljam()`
-Main function for the Evil Jam feature. Scans for networks, allows the user to select a network, and captures handshakes.
-
-### `activate_monitor_mode()`
-Activates monitor mode on a selected network interface.
-
-### `activate_managed_mode()`
-Deactivates monitor mode and switches to managed mode on a selected network interface.
-
-### `list_filesz(directory, extension)`
-Lists files in the specified directory with the given extension.
-
-### `crackhandshake()`
-Cracks the password of a captured handshake using a wordlist.
-
-### `show_credits()`
-Displays credits and tool information.
 
 ## Cracking Passwords
 
