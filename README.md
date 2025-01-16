@@ -66,9 +66,37 @@ To crack the password of a captured handshake, follow these steps:
 
 ## Special Features
 
+### Jam All Clients
+
+EvilJam allows you to perform deauthentication attacks on all clients connected to a target WiFi network. This feature can be accessed through the "WiFi Jam" option, where you can choose to jam all clients. This is useful for testing the security and resilience of a network by simulating a denial-of-service attack.
+
 ### Jam Specific Client
 
-EvilJam allows you to perform deauthentication attacks on specific clients connected to a target WiFi network. This feature can be accessed through the "WiFi Jam" option, where you can choose to jam all clients or a specific client.
+EvilJam allows you to perform deauthentication attacks on specific clients connected to a target WiFi network. This feature can be accessed through the "WiFi Jam" option, where you can choose to jam a specific client. This is particularly useful for targeting specific devices without disrupting the entire network.
+
+### Capture Handshake
+
+EvilJam provides an easy way to capture WPA/WPA2 handshakes from a target WiFi network. This feature can be accessed through the "Capture Handshake" option. The captured handshakes can be used for offline password cracking.
+
+### Easily Crack Handshake
+
+EvilJam allows you to easily crack the password of a captured handshake using a wordlist. This feature can be accessed through the "Crack Handshake" option. The tool uses `aircrack-ng` to attempt to crack the password, and the results are saved to a file for later reference.
+
+### Easy to Use Interface
+
+EvilJam provides a user-friendly interface with clear instructions and options. The main menu allows you to easily navigate through different features and functionalities. The tool also provides detailed feedback and status updates during operations, making it easy to understand what is happening at each step.
+
+### Comprehensive Network Scanning
+
+EvilJam includes robust network scanning capabilities, allowing you to detect and list all available WiFi networks and clients. The tool provides detailed information about each network, including the ESSID, BSSID, and channel, helping you make informed decisions about which network to target.
+
+### Flexible Attack Options
+
+EvilJam offers flexible attack options, allowing you to perform deauthentication attacks on all clients or specific clients. You can also capture WPA/WPA2 handshakes for later analysis and password cracking. The tool supports both automated and manual attack modes, giving you full control over the attack process.
+
+### Monitor and Managed Mode Switching
+
+EvilJam makes it easy to switch between monitor mode and managed mode on your network interfaces. This is essential for performing network scans and attacks, as well as returning your interface to normal operation after the attack.
 
 ## Disclaimer
 
