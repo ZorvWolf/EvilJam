@@ -66,7 +66,6 @@ To crack the password of a captured handshake, follow these steps:
 
 1. Capture the handshake using the "Capture Handshake" option.
 2. Use the "Crack Handshake" option to select the captured handshake file and a wordlist.
-3. The tool will use `aircrack-ng` to attempt to crack the password using the selected wordlist.
 
 ## Special Features
 
