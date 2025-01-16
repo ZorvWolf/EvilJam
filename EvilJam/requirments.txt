@@ -1,0 +1,10 @@
+# Python packages
+colorama
+
+# External tools (install these using your package manager, e.g., apt)
+# airmon-ng
+# airodump-ng
+# aireplay-ng
+# aircrack-ng
+# iw
+# ifconfig
