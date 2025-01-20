@@ -558,7 +558,7 @@ def show_credits():
     print("\n" + "-"*50)
     print("\033[1;36m" + "                      CREDITS                       ".center(50) + "\033[0m")
     print("-"*50)
-    print("\033[1;35mTool owned by: DaddyDark".ljust(50) + "\033[0m")
+    print("\033[1;35mTool owned by: Harshy(DaddyDark)".ljust(50) + "\033[0m")
     print("\033[1;33mSpecial thanks to all contributors.".ljust(50) + "\033[0m")
     print("\n\033[1;32mCopyright 2025 - All Rights Reserved.\033[0m")
     print("\033[1;31mThis tool is provided for educational purposes only.\033[0m")
