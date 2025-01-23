@@ -12,8 +12,7 @@ EvilJam is a powerful tool designed for educational purposes to demonstrate WiFi
 
 ## Screensshots
 
-![Image](https://github.com/user-attachments/assets/aa812ee4-1bf1-4613-a789-17fccb61b941)
-
+![Image](https://github.com/user-attachments/assets/505f13a8-876c-45f7-a17d-4d5510142a2f)
 
 ![Image](https://github.com/user-attachments/assets/63bbefc6-2577-4fd5-9f2d-687dcb18fcbd)
 
