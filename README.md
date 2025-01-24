@@ -26,7 +26,7 @@ EvilJam is a powerful tool designed for educational purposes to demonstrate WiFi
 
     ```sh
     git clone https://github.com/Iamanyomus/EvilJam.git
-    cd EvilJam\EvilJam
+    cd EvilJam/EvilJam
     ```
 
 2. Install the required Python packages:
