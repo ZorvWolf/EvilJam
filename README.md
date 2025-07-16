@@ -25,7 +25,7 @@ EvilJam is a powerful tool designed for educational purposes to demonstrate WiFi
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/Iamanyomus/EvilJam.git
+    git clone https://github.com/ZorvWolf/EvilJam.git
     cd EvilJam/EvilJam
     ```
 
